@@ -109,9 +109,8 @@ font-weight: 600;
     font-weight: 500;
 }
 
-.profile{
-    
-    justify-content: center;
-   height: 95%;
-   width: auto;
+.profile img{
+    height: 44vw;
+    width: auto;
+   
 }
