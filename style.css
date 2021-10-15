@@ -12,13 +12,13 @@
     margin: auto;
 }
 
-/* navbar styling */
+
 
 .navbar{
     position: fixed;
     width: 100%;
     padding: 30px 0;
-    /* background:rgb(9, 1, 14); */
+   
     font-family: 'Ubuntu', sans-serif;
 }
 .navbar .max-width{
@@ -53,11 +53,10 @@ font-weight: 600;
     color: crimson;
 }
 
-/* home section styling */
 .home{
     
     display: flex;
-    background: url(images/wallpaperportfoliohv2.jpg) no-repeat center;
+    background: url('/images/wallpaperportfoliohv2.jpg') no-repeat center;
     height: 100vh;
     color:black;
     min-height: 500px;
