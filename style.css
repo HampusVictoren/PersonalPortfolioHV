@@ -61,7 +61,16 @@ font-weight: 600;
     color:black;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
+    
 }
+
+
+.home .home-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
 .home .max-width{
     margin: auto 0 auto 40px;
 }
@@ -80,4 +89,8 @@ font-weight: 600;
 .home .home-content .text-3 span{
     color:crimson ;
     font-weight: 500;
+}
+
+.img{
+    height: 500px;
 }
