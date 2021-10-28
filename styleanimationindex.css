@@ -1,5 +1,5 @@
 
-  @import "style.css";
+
 
   .container-fluid{
     height: 100%;
@@ -7,9 +7,12 @@
     padding: 0;
     width: 100%;
     background: #FFF;
+    
   }
   /* ============= Animation background ========= */
   .background {
+    display: flex;
+    justify-content: center;
     background: linear-gradient(132deg, #030001, #3d0c91, #212335);
     background-size: 400% 400%;
     animation: Gradient 15s ease infinite;
